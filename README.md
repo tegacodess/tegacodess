@@ -13,16 +13,11 @@ I'm a Software Engineer, a student, and an aspiring Community Engineer who was a
 - 📫 You can contact me by emailing tegazion7@gmail.com.
 
 Languages I use 🛠
-![image](https://user-images.githubusercontent.com/105987372/224063546-81f74472-f4f7-4670-92d9-7c8ad08c93a9.png)! [image src ]
-https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667
+<div style="width:60px ; height:60px">
+![image](https://user-images.githubusercontent.com/105987372/224063546-81f74472-f4f7-4670-92d9-7c8ad08c93a9.png)! 
 ![image](https://user-images.githubusercontent.com/105987372/224064053-1ffa56cb-e381-4f63-9598-71391e9606d7.png)
 ![image](https://user-images.githubusercontent.com/105987372/224064133-0ac087ac-68c3-4607-953f-9aed305c4964.png)
 ![image](https://user-images.githubusercontent.com/105987372/224064185-6d569229-a3ab-4ee9-a025-b4bb20ca894f.png)
 
-
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
-
-
-https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
+</div>
 
