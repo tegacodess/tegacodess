@@ -13,11 +13,6 @@ I'm a Software Engineer, a student, and an aspiring Community Engineer who was a
 - 📫 You can contact me by emailing tegazion7@gmail.com.
 
 Languages I use 🛠
-<div style="width:60px ; height:60px">
-![image](https://user-images.githubusercontent.com/105987372/224063546-81f74472-f4f7-4670-92d9-7c8ad08c93a9.png)! 
-![image](https://user-images.githubusercontent.com/105987372/224064053-1ffa56cb-e381-4f63-9598-71391e9606d7.png)
-![image](https://user-images.githubusercontent.com/105987372/224064133-0ac087ac-68c3-4607-953f-9aed305c4964.png)
-![image](https://user-images.githubusercontent.com/105987372/224064185-6d569229-a3ab-4ee9-a025-b4bb20ca894f.png)
 
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react)](https://skills.thijs.gg)
 
