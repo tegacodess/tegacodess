@@ -12,6 +12,7 @@ I'm a Software Engineer, a student, and an aspiring Community Engineer who was a
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing tegazion7@gmail.com.
 
-Languages and Tools I use 🛠
-react javascript css3 html5 
+Languages I use 🛠
+https://www.w3.org/html/ https://reactjs.org/ https://developer.mozilla.org/en-US/docs/Web/JavaScript https://www.w3schools.com/css/ 
+
 
