@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾I'm Zion Ukpong
 
-I'm a Frontend Engineer, a technical Writer and a student. I'm passionate about sharing and gaining knowledge, technical writing and documentation, and web engineering, I build practical [open-source projects](https://github.com/Zion Ukpong), I write articles at [my Hashnode blog](https://techgirltega.hashnode.dev/ ) and participate in growing technical communities...
+I'm a Frontend Engineer, a Technical Writer and a Student. I'm passionate about sharing and gaining knowledge, technical writing/ documentation, and web engineering. You can check out my articles at [my Hashnode blog](https://techgirltega.hashnode.dev/ ) and I also participate in growing technical communities...
 
 **Here's a quick summary about me**:
 
