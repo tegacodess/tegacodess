@@ -7,7 +7,7 @@ I'm a growing Frontend Engineer, a Technical Writer and a Student. I'm passionat
 - 😊 Pronouns: Her
 - 🌱 I’m currently learning JavaScript and ReactJs.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level), Technical Writer.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer, Technical Writer (Intern or Junior level) .
 - 📫 You can contact me by emailing tegazion7@gmail.com.
 
 
