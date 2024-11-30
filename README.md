@@ -1,4 +1,4 @@
-Hi, I'm Tega
+👋Hi, I'm Tega💕
 - 💼 Open to collaborate on projects, gigs and hackathons.
 - 🖊  Check out my blog: [Hashnode](https://techgirltega.hashnode.dev/ ) 
 - 👩‍💻 I work with JavaScript and ReactJs.
