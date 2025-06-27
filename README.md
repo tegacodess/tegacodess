@@ -1,5 +1,5 @@
 👋Hi, I'm Tega💕
-Check out my gists.
+Check out [my gists](https://gist.github.com/tegacodess).
 - 💼 Open to collaborate on projects, gigs and hackathons.
 - 🖊  Check out my blog: [Hashnode](https://techgirltega.hashnode.dev/ ) 
 - 👩‍💻 I work with, Python, JavaScript and ReactJs.
