@@ -1,5 +1,5 @@
 👋Hi, I'm Tega💕
-I build solutions using AI and ML.  
+I build data-backed solutions using ML & AI.  
 
 Check out [my gists](https://gist.github.com/tegacodess).
 - Open to collaborate on projects, gigs and hackathons.
